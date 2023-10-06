@@ -1,4 +1,4 @@
-import React, { createContext, useState } from 'react';
+import React, { createContext, useState } from "react";
 
 // Create a context with a default value of false
 export const LoginContext = createContext(false);
